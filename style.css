@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Bodoni+Moda&display=swap');
+*{
+    font-family: 'Bakbak One', cursive;
+    font-family: 'Bodoni Moda', serif;
+}
+
+
+h1{color: #42302D;
+    font-size: 50px;
+}
+
+h2{color: #42302D;
+font-size: 40pt;
+}
+
+.topright {
+    border-radius: 8px;
+    margin-left: auto;
+  }
+
+.largetext{
+    
+    font-size: 16px;
+    color: black;
+    text-align: left;
+}
+
+.centredtext {
+    text-align: left;
+}
+
+.textright {
+    font-size: 17px;
+    color: black;
+text-align: right;}
+
+.menu {
+    height: 36px;
+    background-color: paleturquoise;
+}
+
+h2{text-align: right;}
+
+
+
+body{
+    background-image: url("Siteproject/images/Background.png");
+    background-size: cover; 
+}
+#menu {
+    color: rgb(19, 4, 4);
+    height: 60px;
+    width: 80%;
+    font-size: 40px;
+    display: flex;
+    background-color: #F0E190;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* display: block; */
+}
+#menu a{
+    color: #42302D;
+
+}
